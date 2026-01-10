@@ -1,6 +1,5 @@
 ## Hi, I'm Kaashvi 🪐
-꩜ A 3rd year Computer Science Engg. student at SRMIST<br>꩜ A curious individual who wishes to work on projects where I can apply my skills to solve real-world problems.<br>꩜ Always open to collaborations and new opportunities and experiences.<br>꩜ Gmail: kaashvij06@gmail.com<br>꩜ LinkedIn: www.linkedin.com/in/kaashvijn<br><br><br><br>
-
+꩜ A 3rd year Computer Science Engg. student at SRMIST<br>꩜ A curious individual who wishes to work on projects where I can apply my skills to solve real-world problems.<br>꩜ Always open to collaborations and new opportunities and experiences.<br>꩜ Gmail: kaashvij06@gmail.com<br>꩜ LinkedIn: www.linkedin.com/in/kaashvijn<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kaashvijn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaashvij06@gmail.com) 
