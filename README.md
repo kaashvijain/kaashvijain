@@ -1,5 +1,6 @@
 # 💫 About Me:
-- A final-year CSE student who is interested in backend development, AI agents, and creative projects. <br>- Always open to collaborations and new opportunities. <br>
+- A final-year CSE student who is interested in backend development, AI agents, and creative projects.
+- Always open to collaborations and new opportunities. <br>
 
 
 ## 🌐 Socials:
