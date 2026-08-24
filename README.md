@@ -4,9 +4,7 @@
 
 ### About Me
 
-20 · CS
-
-&nbsp;I'm currently working on **a radio signal classifier**  
+&nbsp;20 · CS
 &nbsp;Pronouns: **she/her**
 
 ### Tech Stack
