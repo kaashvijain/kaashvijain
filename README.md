@@ -4,8 +4,8 @@
 
 ### About Me
 
-&nbsp;20 · CS
-&nbsp;Pronouns: **she/her**
+20 · CS<br>
+Pronouns: **she/her**
 
 ### Tech Stack
 
